@@ -44,12 +44,6 @@ Replace placeholders in the script:
 
 ---
 
-## 🎥 Demo Video
-
-Watch the working demo on [LinkedIn](https://www.linkedin.com/posts/gorrepati-pravallika-29b19b314_saisatish-aimers-aimersociety-activity-7224502293826584577-DHPZ)
-
----
-
 ## 🏷 Tags
 
 `telegram-bot` `gemini-ai` `generative-ai` `python` `openai` `chatbot`
