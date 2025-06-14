@@ -45,6 +45,9 @@ python bot_gemini.py
 # or
 python bot_weather.py
 ```
+Ex:
+🤖 Ask: "What is AI?"
+📬 Bot: "AI stands for Artificial Intelligence..."
 
 ---
 
